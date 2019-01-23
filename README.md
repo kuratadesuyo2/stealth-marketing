@@ -1,1 +1,1 @@
-# stealth-marketing
+# StealthMarketing
